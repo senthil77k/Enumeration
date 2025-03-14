@@ -64,7 +64,8 @@ Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TX
 Perform common SRV Record Enumeration
 Top level domain expansion
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/f4b509a9-3494-4cf5-a981-c5546ca6aadb)
+![image](https://github.com/user-attachments/assets/8988c7b8-190c-4ad8-ab7f-3c531311c9d5)
+
 
 
 
@@ -73,7 +74,8 @@ Top level domain expansion
 
 ## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
-![image](https://github.com/user-attachments/assets/2abe8a66-0ed3-4018-aa32-5622dc9aeda5)
+![image](https://github.com/user-attachments/assets/f218d701-df86-404c-ade7-4e8b042bf172)
+
 
 
 
@@ -92,7 +94,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
- ![image](https://github.com/user-attachments/assets/51e726c5-416f-4301-975a-e400b6b3197c)
+ ![image](https://github.com/user-attachments/assets/ea163628-1a35-4738-b538-2e327362b5c0)
+
  
   
 
@@ -102,7 +105,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/29a65698-a085-4ae5-ba09-d516ea3c9e53)
+![image](https://github.com/user-attachments/assets/8c47a269-088f-4606-945f-997a60933b41)
+
 
 
 
